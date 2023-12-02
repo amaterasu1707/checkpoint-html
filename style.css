@@ -1,0 +1,48 @@
+h1 {
+    color: springgreen;
+}
+
+.header {
+    background-color: lightgreen;
+    padding: 10px;
+    height: auto;
+    color: white;
+    
+}
+
+.header-nav {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.header-nav a {
+    color: inherit;
+    padding: 0 10px;
+    text-decoration: none;
+}
+
+.header-nav a:hover {
+    text-decoration: underline;
+}
+
+body {
+    margin: 0;
+    line-height: 1.4;
+    letter-spacing: 0.2px;
+    font-family: "roboto", sans-serif;
+}
+
+.main {
+    background-color: antiquewhite;
+    padding: 20px;
+    font-size: 16px;
+}
+
+.main p {
+    text-align: justify;
+}
+
+footer {
+    background-color: lightgreen;
+    padding: 10px;
+}
